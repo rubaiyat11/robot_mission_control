@@ -1,0 +1,6 @@
+mission_brain_node:
+  ros__parameters:
+    low_battery_threshold: 30.0
+    obstacle_threshold_cm: 50.0
+    high_temp_threshold: 75.0
+    robot_name: "RoboCore-01"

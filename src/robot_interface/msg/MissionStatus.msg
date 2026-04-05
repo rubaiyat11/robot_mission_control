@@ -1,0 +1,4 @@
+string mission_state
+string robot_name
+int32 alert_level
+string alert_message

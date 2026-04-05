@@ -1,0 +1,4 @@
+float32 battery_level
+float32 distance_cm
+float32 motor_temp
+bool obstacle_detected

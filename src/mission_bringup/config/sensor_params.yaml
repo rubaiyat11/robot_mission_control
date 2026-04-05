@@ -1,0 +1,5 @@
+sensor_array_node:
+  ros__parameters:
+    publish_rate: 2.0
+    simulate_drain: True
+    drain_rate: 0.5
